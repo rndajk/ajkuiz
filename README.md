@@ -1,6 +1,6 @@
 AJKuiz
 ===================
-
+Created By: M. Syaiful, Fathoni Adi, Desy N
 
 **AJKuiz** merupakan web application yang dapat digunakan sebagai media kuis online. **AJKuiz** memiliki dua bagian utama yaitu halaman soal dan halaman control jawaban yang terletak secara terpisah. Halaman control dapat dikendalikan melalui perangkat apapun.
 
